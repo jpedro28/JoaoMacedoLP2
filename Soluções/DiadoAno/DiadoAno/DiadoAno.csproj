@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7DEBBA3C-1AD3-497E-ABBA-0B46DE3B9B95}</ProjectGuid>
+    <ProjectGuid>{1EA321EA-7048-43E5-AB4F-093F63C49461}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DiadoAno</RootNamespace>
-    <AssemblyName>DiadoAno</AssemblyName>
+    <RootNamespace>DiaDoAno</RootNamespace>
+    <AssemblyName>DiaDoAno</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
